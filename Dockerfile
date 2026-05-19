@@ -1,2 +1,2 @@
-FROM registry.aliyuncs.com/library/nginx:alpine
+FROM registry.cn-hangzhou.aliyuncs.com/lnstzy/nginx:alpine
 EXPOSE 80
